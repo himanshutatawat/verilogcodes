@@ -1,6 +1,6 @@
 # verilogcodes
 
-Lab #3: Arithmetic and Logic Unit (ALU)
+ # Lab #3: Arithmetic and Logic Unit (ALU)
 In this lab you are required to implement an ALU on the FPGA board.
 The ALU is an integral part of a processor in a computer that carries out the execution of various instructions. It performs Arithmetic operations as well as Logic operations on the two inputs and produces the output. 
 The ALU is represented by the following.
@@ -41,3 +41,8 @@ Procedure.
 	Simulate the code using the test bench and see if the outputs appear as desired.
 	Define the UCF file for the input output as described above. Synthesize your code for the FPGA and download the bit file on the FPGA. You will not be able to synthesize the test bench as it is not a synthesizable construct.
 	Try out various switch combinations to see if the output is as indicated as in the table above. Must ensure that you get all combination on D0 and D1 bits with various inputs of A, B and F.
+	
+	
+
+
+
